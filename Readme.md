@@ -13,7 +13,7 @@ The Probability-Distribution Package implements the Gaussian and the binomial di
 You can install the package using `pip`. Run the following command:
 
 ```bash
-pip install Probability-Distributions
+pip install p-distributions-2024
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ pip install Probability-Distributions
 Here is a simple example of how to use the package:
 
 ```python
-from Probability-Distributions import Gaussiandistribution
+from p-distributions-2024 import Gaussiandistribution
 
 # Example usage
 gaussian = Gaussiandistribution()
